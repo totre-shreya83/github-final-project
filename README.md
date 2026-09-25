@@ -12,7 +12,7 @@ Where:
 
 * **P** = Principal amount
 * **R** = Rate of interest
-* **T** = Time period in years
+* **T** = Time period (in years)
 
 ## Features
 
