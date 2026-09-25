@@ -1,0 +1,6 @@
+$ git branch -a -vv
+  bug-fix-typo                6693068 [origin/bug-fix-typo] Fix typo in README
+* main                        015231b [origin/main]  add pull request veification output
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo 6693068 Fix typo in README
+  remotes/origin/main         015231b  add pull request veification output
